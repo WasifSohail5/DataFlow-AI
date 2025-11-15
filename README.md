@@ -322,7 +322,7 @@ Special thanks to these amazing projects and resources:
 
 If you have any questions or need help getting started, feel free to:
 
-- 📧 **Email**: wasif.sohail@example.com
+- 📧 **Email**: wasifsohail66@example.com
 - 💬 **Discussions**: [GitHub Discussions](https://github.com/WasifSohail5/DataFlow-AI/discussions)
 - 🐛 **Issues**: [Report a Bug](https://github.com/WasifSohail5/DataFlow-AI/issues)
 
