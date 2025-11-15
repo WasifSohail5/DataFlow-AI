@@ -10,7 +10,7 @@
 
 **Transform raw data into actionable insights with AI-powered analytics**
 
-[🚀 Live Demo]([https://drive.google.com/file/d/1V-xpuKjwUmFVJF5T7AZ0YfIrS4IuLRXy/view?usp=sharing]) • [📖 Documentation](https://github.com/WasifSohail5/DataFlow-AI) • [🐛 Report Bug](https://github.com/WasifSohail5/DataFlow-AI/issues)
+[🚀 Live Demo](https://drive.google.com/file/d/1V-xpuKjwUmFVJF5T7AZ0YfIrS4IuLRXy/view?usp=sharing) • [📖 Documentation](https://github.com/WasifSohail5/DataFlow-AI) • [🐛 Report Bug](https://github.com/WasifSohail5/DataFlow-AI/issues)
 
 </div>
 
