@@ -204,18 +204,18 @@ Your intelligent data analyst:
 <table>
 <tr>
 <td width="50%">
-<img src="./Visualizations/Bar_Plots.png" alt="Bar Plots" width="100%"/>
+<img src="./VIsualizations/Bar_Plots.png" alt="Bar Plots" width="100%"/>
 </td>
 <td width="50%">
-<img src="./Visualizations/Dist_Plots_Cats.png" alt="Visualization 2" width="100%"/>
+<img src="./VIsualizations/Dist_Plots_Cats.png" alt="Visualization 2" width="100%"/>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<img src="./Visualizations/Dist_PLots_Numeric.png" alt="Visualization 3" width="100%"/>
+<img src="./VIsualizations/Dist_PLots_Numeric.png" alt="Visualization 3" width="100%"/>
 </td>
 <td width="50%">
-<img src="./Visualizations/Heat_Maps.png" alt="Visualization 4" width="100%"/>
+<img src="./VIsualizations/Heat_Maps.png" alt="Visualization 4" width="100%"/>
 </td>
 </tr>
 </table>
