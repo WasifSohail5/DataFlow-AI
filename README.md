@@ -212,7 +212,7 @@ Your intelligent data analyst:
 </tr>
 <tr>
 <td width="50%">
-<img src="./VIsualizations/Dist_PLots_Numeric.png" alt="Visualization 3" width="100%"/>
+<img src="./VIsualizations/Dist_Plots_Numeric.png" alt="Visualization 3" width="100%"/>
 </td>
 <td width="50%">
 <img src="./VIsualizations/Heat_Maps.png" alt="Visualization 4" width="100%"/>
